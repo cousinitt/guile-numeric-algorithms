@@ -1,0 +1,12 @@
+criteria:
+        * unlimited iterations
+        * max iterations set to 100
+
+Method, Iterations, Root Tolerance
+Bisection,    65,  1.1855022689287379e-11
+Secant,       94, -1.6081226496766364e-16
+Regula Falsi, 91, -1.6081226496766364e-16
+Muller,       96, -2.1801832391434092e-11
+Dekker,       91,  6.123233995736766e-17
+Brent,        49,  6.123233995736766e-17
+

@@ -1,0 +1,3 @@
+(if (>= (* (f a) (f b)) 0)
+    (error "a and b don't bracket the root")
+    (continue ...))
